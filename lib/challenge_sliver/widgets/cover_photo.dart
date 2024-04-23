@@ -22,7 +22,7 @@ class CoverPhoto extends StatelessWidget {
           // Recorta la imagen para que tenga bordes redondeados
           borderRadius: BorderRadius.circular(10),
           child: Image.asset(
-            'assets/sliver/summer1.jpg',
+            'assets/sliver/img5.jpg',
             fit: BoxFit.fill, // Ajusta la imagen para llenar el contenedor
           ),
         ));

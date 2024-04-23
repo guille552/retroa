@@ -34,7 +34,7 @@ class DataCutRectangle extends StatelessWidget {
                   (percent > 0.48 ? pow(percent, 10.5).clamp(0.0, 0.06) : 0.0),
             ),
             child: const Text(
-              'Summer Camp Island',
+              'Matrix',
               style: TextStyle(fontSize: 22, fontWeight: FontWeight.w600),
               textAlign: TextAlign.start,
             ),
